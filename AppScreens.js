@@ -3,6 +3,7 @@ import { Home, HomeFilled, Reels, ReelsFilled, Search, SearchFilled, Shop, ShopF
 import { StyleSheet, Image } from 'react-native';
 import HomeScreen from './screens/home';
 import ProfileScreen from './screens/profile';
+import RegisterScreen from './screens/register';
 
 
 const Tab = createBottomTabNavigator();
